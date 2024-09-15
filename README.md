@@ -16,7 +16,7 @@ The codes are designed to help students and enthusiasts better understand these 
 * [PDF](https://github.com/NDarayut/Mathematica_calc/blob/main/calculus_euler_method.pdf) with example and visual comparison.
 ## Getting Started  
 1. Clone the repository:  
-   ```git clone https://github.com/NDarayut/Mathematica_calc```
+   ```git clone https://github.com/NDarayut/Mathematica_calculus```
 2. Open the ```.nb``` files using Mathematica to explore the code and visualize the results.
 3. PDF versions of the code are available in the repository for quick reference.
 ## Prerequisite  
