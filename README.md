@@ -15,7 +15,7 @@ The codes are designed to help students and enthusiasts better understand these 
 * Implementation of Euler's method in comparison to the exact plot.  
 * [PDF](https://github.com/NDarayut/Mathematica_calc/blob/main/calculus_euler_method.pdf) with example and visual comparison.
 ## Getting Started  
-1. Clone the repository:
+1. Clone the repository:  
    ```git clone https://github.com/NDarayut/Mathematica_calc```
 2. Open the ```.nb``` files using Mathematica to explore the code and visualize the results.
 3. PDF versions of the code are available in the repository for quick reference.
