@@ -1,4 +1,4 @@
-# Mathematica Code Repository for Calculus Topics  
+# Mathematica Code Repository for Calculus Subject  
 This repository contains Mathematica notebooks and corresponding PDFs on various calculus topics, 
 including integral calculus, solids of revolution, and the Euler method. 
 The codes are designed to help students and enthusiasts better understand these concepts through computational visualization and numerical methods.  
