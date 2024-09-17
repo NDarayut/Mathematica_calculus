@@ -20,5 +20,5 @@ The codes are designed to help students and enthusiasts better understand these 
 2. Open the ```.nb``` files using Mathematica to explore the code and visualize the results.
 3. PDF versions of the code are available in the repository for quick reference.
 ## Prerequisite  
-* Wolfram Mathematica software to run the .nb files.  
+* Wolfram Mathematica software to run the ```.nb``` files.  
 * PDFs can be viewed using any standard PDF reader.  
